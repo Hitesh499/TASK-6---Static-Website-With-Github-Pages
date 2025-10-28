@@ -3,7 +3,7 @@
 ## Steps Followed
 
 1. Written a index.html on VS Code
-2. Pushed the html code along with README.md inside the Github repo, Using the commands
+2. Pushed the HTML file along with the README.md to the GitHub repository using the following command
 ```bash
 git init
 git add .
@@ -18,6 +18,12 @@ Go to repo → Settings → Pages → enable GitHub Pages.
 Select main branch and root folder.
 Access live website from the link GitHub gives.
 Try customizing with CSS.
+```bash
+4. To commit the new changes, use the following commands:
+```bash
+git add .
+git commit -m "Updated imdex.html and README.md"
+git push
 ```
 
 ## Outcome
